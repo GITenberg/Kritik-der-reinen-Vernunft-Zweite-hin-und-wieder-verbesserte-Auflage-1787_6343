@@ -1,0 +1,33 @@
+_repo: Kritik-der-reinen-Vernunft-Zweite-hin-und-wieder-verbesserte-Auflage-1787_6343
+creator:
+  author:
+    agent_name: Kant, Immanuel
+    aliases:
+    - Kant, Emmanuel
+    - Kant, I. (Immanuil)
+    birthdate: 1724
+    deathdate: 1804
+    gutenberg_agent_id: '1426'
+    url: http://www.gutenberg.org/2009/agents/1426
+    wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- German Language Books
+- Philosophy
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6343'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reason'
+- !lcsh 'Causation'
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Philosophy, German'
+- !lcc 'B'
+title: "Kritik der reinen Vernunft\r\nZweite hin und wieder verbesserte Auflage (1787)"
+url: http://www.gutenberg.org/ebooks/6343
